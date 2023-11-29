@@ -12,9 +12,6 @@ h1{
   Padding: 15px;
   backround-color: white;
 }
-li{
-  
-}
 Footer{
   display: inline-block;
   font-size: 14px;
@@ -23,5 +20,16 @@ Footer{
 body{
   backgrpund-color: #242f44;
   color: white;
-  font-family
+  font-family: ''Oswald', sans-serif
 }
+<ul>{
+  <li> Clothes</li>
+  <li> fashion</li>
+}
+</ul>
+  >ol>{
+    <li> get a proper simple color of dress</li>
+    <li> Style with some high heels </li>
+    <li> Be confident and take some pictures</li>
+  }
+  
