@@ -22,14 +22,13 @@ body{
   color: white;
   font-family: ''Oswald', sans-serif
 }
-<ul>{
-  <li> Clothes</li>
-  <li> fashion</li>
+ul {
+  list-style: square;
+  color: light blue
 }
-</ul>
-  >ol>{
-    <li> get a proper simple color of dress</li>
-    <li> Style with some high heels </li>
-    <li> Be confident and take some pictures</li>
+
+  ol {
+  font-styles: italic;
+    background-position: center;
   }
   
